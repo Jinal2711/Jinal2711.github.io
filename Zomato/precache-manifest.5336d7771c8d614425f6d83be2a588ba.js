@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52bea63b218595e4802ae3ae15d41c0c",
+    "revision": "ba053379978e0dfba66299eef0ca9d63",
     "url": "/Zomato/index.html"
   },
   {
-    "revision": "ed9d05406726275d476f",
+    "revision": "079cc3266ae60da27ae1",
     "url": "/Zomato/static/css/main.1e87eb43.chunk.css"
   },
   {
-    "revision": "bd7bae2811b2925755cb",
-    "url": "/Zomato/static/js/2.079072d9.chunk.js"
+    "revision": "16b3e67bf012a1713969",
+    "url": "/Zomato/static/js/2.33970dff.chunk.js"
   },
   {
-    "revision": "ed9d05406726275d476f",
-    "url": "/Zomato/static/js/main.4bb4e773.chunk.js"
+    "revision": "079cc3266ae60da27ae1",
+    "url": "/Zomato/static/js/main.9855554d.chunk.js"
   },
   {
     "revision": "65b0c06d3454ccf69424",

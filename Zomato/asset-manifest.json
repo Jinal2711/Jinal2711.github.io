@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Zomato/static/css/main.1e87eb43.chunk.css",
-    "main.js": "/Zomato/static/js/main.4bb4e773.chunk.js",
-    "main.js.map": "/Zomato/static/js/main.4bb4e773.chunk.js.map",
+    "main.js": "/Zomato/static/js/main.9855554d.chunk.js",
+    "main.js.map": "/Zomato/static/js/main.9855554d.chunk.js.map",
     "runtime-main.js": "/Zomato/static/js/runtime-main.b7552b7c.js",
     "runtime-main.js.map": "/Zomato/static/js/runtime-main.b7552b7c.js.map",
-    "static/js/2.079072d9.chunk.js": "/Zomato/static/js/2.079072d9.chunk.js",
-    "static/js/2.079072d9.chunk.js.map": "/Zomato/static/js/2.079072d9.chunk.js.map",
+    "static/js/2.33970dff.chunk.js": "/Zomato/static/js/2.33970dff.chunk.js",
+    "static/js/2.33970dff.chunk.js.map": "/Zomato/static/js/2.33970dff.chunk.js.map",
     "index.html": "/Zomato/index.html",
-    "precache-manifest.13ec0723f48abc43c5357641a3711bc5.js": "/Zomato/precache-manifest.13ec0723f48abc43c5357641a3711bc5.js",
+    "precache-manifest.5336d7771c8d614425f6d83be2a588ba.js": "/Zomato/precache-manifest.5336d7771c8d614425f6d83be2a588ba.js",
     "service-worker.js": "/Zomato/service-worker.js",
     "static/css/main.1e87eb43.chunk.css.map": "/Zomato/static/css/main.1e87eb43.chunk.css.map",
     "static/media/bg.jpg": "/Zomato/static/media/bg.48f72a44.jpg"
